@@ -1,0 +1,44 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BLB",
+        "GEG",
+        "RBR"
+    ],
+   
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gunpowder"
+        },
+        
+        "E":
+        {
+            "item": "minecraft:ender_eye"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:redstone"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:blaze_powder"
+        },
+        
+        "L":
+        {
+            "item": "minecraft:glowstone_dust"
+        }
+    },
+   
+    "result":
+    {
+        "item": "vm:dark_energy",
+        "count": 1
+    }
+}
