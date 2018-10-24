@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "DDD",
+        "DDD",
+        "DDD"
+    ],
+   
+    "key":
+    {
+        "D":
+        {
+            "item": "im:refined_iron_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "im:refined_iron_block",
+        "count": 1
+    }
+}

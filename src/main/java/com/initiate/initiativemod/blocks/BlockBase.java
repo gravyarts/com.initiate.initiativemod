@@ -3,6 +3,7 @@ package com.initiate.initiativemod.blocks;
 import com.initiate.initiativemod.Main;
 import com.initiate.initiativemod.init.ModBlocks;
 import com.initiate.initiativemod.init.ModItems;
+import com.initiate.initiativemod.tabs.ModTab;
 import com.initiate.initiativemod.util.IHasModel;
 
 import net.minecraft.block.Block;
@@ -16,7 +17,7 @@ public class BlockBase extends Block implements IHasModel{
 		super(material);
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setCreativeTab(CreativeTabs.MATERIALS);
+		setCreativeTab(Main.modtab);
 		ModBlocks.BLOCKS.add(this);
 		ModItems.ITEMS.add(new ItemBlock(this).setRegistryName(this.getRegistryName()));
 	}

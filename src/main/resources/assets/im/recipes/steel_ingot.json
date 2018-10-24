@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "DDD",
+        "DDD",
+        "DDD"
+    ],
+   
+    "key":
+    {
+        "D":
+        {
+            "item": "im:steel_nugget"
+        }
+    },
+   
+    "result":
+    {
+        "item": "im:steel_ingot",
+        "count": 1
+    }
+}
