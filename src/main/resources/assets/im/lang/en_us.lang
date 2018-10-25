@@ -1,11 +1,27 @@
-//Items
+//Essentials
+item.refined_ingot.name=Refined Ingot
+item.steel_ingot.name=Steel Ingot
 item.dark_matter.name=Dark Matter
 item.dark_energy.name=Dark Energy
-item.portal_gun.name=Portal Gun
-item.steel_ingot.name=Steel Ingot
-
-//Blocks
-tile.tardis.name=Tardis
-
+item.black_hole_stable.name=Stable Energy
+item.black_hole_unstable.name=Unstable Energy
+//Portal Guns
+item.portal_gun_default.name=Portal Gun
+//Misc
+item.vhs.name=VHS Tape
+item.vhs_cracked.name=VHS Cracked Tape
+//Moon
+tile.moon_dust_hardened.name=Hardened Moon Dust
+tile.moon_dust.name=Moon Dust
+tile.moon_stone.name=Moon Rock
+tile.moon_stone_top.name=Moon Rock Surface
+tile.moon_panel_ps.name=Portable Surface
+tile.moon_panel_psc.name=Chiseled Portable Surface
+tile.moon_panel_s.name=Surface
+tile.moon_panel_sc.name=Chiseled Surface
+tile.moon_ore.name=Moon Ore
+//Overworld
+block.steel_block.name=Block of Steel
+block.rf_block.name=Block of Refined
 //Tab
 itemGroup.modtab=Initiative
