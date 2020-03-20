@@ -20,6 +20,7 @@ build
 # other
 eclipse
 run
+runClient.bat
 
 logs
 crash-reports
