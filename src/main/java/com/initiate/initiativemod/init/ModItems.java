@@ -19,4 +19,7 @@ public class ModItems {
 	public static final Item STEEL_INGOT = new ItemBase("steel_ingot");
 	public static final Item REFINED_IRON_INGOT = new ItemBase("refined_iron_ingot");
 
+	//Misc
+	public static final Item VHS = new ItemBase("vhs");
+
 }
